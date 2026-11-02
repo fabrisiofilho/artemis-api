@@ -14,3 +14,20 @@ Spring, Spring MVC, Spring Boot, Spring Security.🍃☕
 #### [ ] Tratamento de Erro -> Em desenvolvimento.
 
 #### [ ] Testes -> Em desenvolvimento.
+
+---
+
+<!-- github-standardizer:start -->
+## Overview
+
+Spring-based backend prototype with application services and security.
+
+## Technology indicators
+
+- Java / Maven
+
+## Getting started
+
+Check the project manifests and existing documentation for supported setup commands. No installation instructions were inferred.
+
+<!-- github-standardizer:end -->
